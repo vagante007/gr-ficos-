@@ -30,7 +30,7 @@ nav a {
     color: var(--bg-color);
      margin: 0 2rem 1rem 0rem;
      font-size: 1.2rem;
-}fabiano.irenodacosta.junior@escola.pr.gov.brfabiano.irenodacosta.junior@escola.pr.gov.br
+}
 /* código omitido */
 
 nav a:hover {
@@ -38,7 +38,7 @@ nav a:hover {
     transform: scale(0.90);
     transition: transform 0.1s;
 }/* código omitido */
-fabiano.irenodacosta.junior@escola.pr.gov.br
+
 header {
     background-color: var(--primary-color);
     text-align: center;
