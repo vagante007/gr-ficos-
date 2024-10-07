@@ -14,16 +14,13 @@ body {
     height: 100vh;
     margin: 0;
 }
-/* código omitido */
+
 
 h1 {
     font-size: 2rem;
     color: var(--bg-color);
      font-weight: 700;
 }
-/* código omitido */
-
-/* código omitido */
 
 nav a {
     text-decoration: none;
@@ -31,22 +28,18 @@ nav a {
      margin: 0 2rem 1rem 0rem;
      font-size: 1.2rem;
 }
-/* código omitido */
 
 nav a:hover {
     text-decoration: underline;
     transform: scale(0.90);
     transition: transform 0.1s;
-}/* código omitido */
+}
 
 header {
     background-color: var(--primary-color);
     text-align: center;
     padding: 1px;
 }
-
-/* código omitido */
-/* código omitido */
 
 footer {
     display: flex;
